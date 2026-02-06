@@ -83,7 +83,7 @@ Used when multiple conditions need to be checked sequentially.
             If yes → Print vowel
             Else → Print consonant
 
-  *Program 9:Salary Calculation*
+  *Program 9: Salary Calculation*
 
            Start
            Input basic salary
@@ -91,7 +91,7 @@ Used when multiple conditions need to be checked sequentially.
            Calculate gross salary
            Display results  
 
-  *Program 10:Income Tax Calculation*
+  *Program 10: Income Tax Calculation*
 
           Start
           Input annual income
